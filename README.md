@@ -10,8 +10,8 @@ A simple Physics2D Engine skeleton for java.
    1. SAT - Separating Axis Theorem
       1. Circle vs. Circle
       2. Circle vs. Polygon
-      3. Polygon vs. Polygon
-![img](img/SAT.jpg =100x100)
+      3. Polygon vs. Polygon  
+    <img src="img/SAT.jpg" width = "200" height = "200" align=center />
 3. Impulse Resolution
    - ResolveCollision
    - PositionalCorrection
