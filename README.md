@@ -1,23 +1,22 @@
 # SPEJ-Physics2D
 A simple Physics2D Engine skeleton for java.
-## Implementation
-1. Basic Shape
+## Basic Shape
     - Circle
     - Polygon
       - triangle and rectangle
       - others: clock-wise
-2. Collision Detection
+## Collision Detection
    1. SAT - Separating Axis Theorem
       1. Circle vs. Circle
       2. Circle vs. Polygon
       3. Polygon vs. Polygon  
     <img src="img/SAT.jpg" width = "200" height = "200" align=center />
-3. Impulse Resolution
+## Impulse Resolution
    - ResolveCollision
    - PositionalCorrection
-4. Interface
+## Interface
    - Trigger and Render
-5. To begin
+## To begin
     ```JAVA
     //Step1. PhysicsEngineController
     PhysicsEngineController pc=PhysicsEngineController.getPhysicsEngineController();
