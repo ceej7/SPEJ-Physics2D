@@ -10,12 +10,12 @@ A simple Physics2D Engine skeleton for java.
   1. Circle vs. Circle
   2. Circle vs. Polygon
   3. Polygon vs. Polygon  
-<img src="img/SAT.jpg" width = "200" height = "200" align=center />
+    <img src="img/SAT.jpg" width = "200" height = "200" align=center />
 ## Impulse Resolution
-- ResolveCollision
-- PositionalCorrection
+  - ResolveCollision
+  - PositionalCorrection
 ## Interface
-- Trigger and Render
+  - Trigger and Render
 ## To begin
   ```JAVA
   //Step1. PhysicsEngineController
